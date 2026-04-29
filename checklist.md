@@ -1,7 +1,7 @@
 # COMP 2537 — Assignment 1 Self-Graded Checklist
 
 Student Name: Carlos Fonseca
-Student Set: TBD
+Student Set: 1A
 
 [ ] A home page links to signup and login, if not logged in; and links to members and signout, if logged in. (5)
 [ ] A members only page that displays 1 of 3 random images stored on the server. (5)
