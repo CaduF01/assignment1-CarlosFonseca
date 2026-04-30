@@ -1,4 +1,4 @@
-# COMP 2537 — Assignment 1
+# COMP 2537 | Assignment 1
 
 Student Name: Carlos Fonseca
 Student Set: 1A
